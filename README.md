@@ -16,7 +16,7 @@
 
 ---
 
-## English (default)
+## English
 
 ### 🚀 Download
 - Get the latest APK from GitHub Releases: https://github.com/zerodevid/Zero-Notification-Publish/releases
