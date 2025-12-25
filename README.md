@@ -6,7 +6,6 @@
 
 <p align="center">
   <b>Automatic notification reader with Text-to-Speech</b><br/>
-  Play Store–style listing, distributed via GitHub while we prepare the public release.
 </p>
 
 <p align="center">
