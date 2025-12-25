@@ -19,7 +19,8 @@
 ## English (default)
 
 ### 🚀 Download
-- GitHub Releases: coming soon. For now, build locally with Android Studio if you want early access.
+- Get the latest APK from GitHub Releases: https://github.com/zerodevid/Zero-Notification-Publish/releases
+- No Git needed—just tap the newest `.apk` file and download.
 - Support: open the Issues tab for install or bug reports.
 
 ### 💡 Why it matters
@@ -75,7 +76,8 @@
 ## Bahasa Indonesia
 
 ### 🚀 Unduh
-- GitHub Releases: segera tersedia. Untuk sekarang, build sendiri lewat Android Studio bila ingin coba lebih awal.
+- Ambil APK terbaru di GitHub Releases: https://github.com/zerodevid/Zero-Notification-Publish/releases
+- Tidak perlu pakai Git—cukup pilih rilis terbaru dan unduh file `.apk`.
 - Bantuan: gunakan tab Issues untuk kendala instalasi atau bug.
 
 ### 💡 Kenapa penting
