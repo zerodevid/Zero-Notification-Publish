@@ -1,7 +1,7 @@
 # Zero Notification 🔔
 
 <p align="center">
-  <img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" width="140" alt="Zero Notification Logo"/>
+  <img src="screenshots/ic_launcher_round.png" width="140" alt="Zero Notification Logo"/>
 </p>
 
 <p align="center">
