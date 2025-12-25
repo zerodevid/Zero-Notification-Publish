@@ -59,6 +59,7 @@
 ### 🔒 Privacy & permissions
 - Notifications are processed on-device and can be filtered with your word lists.
 - Requires: Notification Access and a Text-to-Speech engine (Google TTS recommended). Battery optimization exclusion is optional to keep the service active.
+- No data leaves your device; nothing is sent to us (the developers). All data stays local.
 
 ### ❓ FAQ
 - **Does it read entire chats?** Only the title and text provided in the notification; you can limit with filter/ban words.
@@ -114,6 +115,7 @@
 ### 🔒 Privasi & izin
 - Data notifikasi diproses di perangkat dan dapat disaring dengan filter/ban words.
 - Membutuhkan: Akses Notifikasi dan engine Text-to-Speech (Google TTS disarankan). Pengecualian baterai opsional agar layanan tetap aktif.
+- Tidak ada data yang dikirim ke pengembang; semuanya tersimpan dan diproses secara lokal di perangkat Anda.
 
 ### ❓ FAQ singkat
 - **Apakah membaca seluruh isi chat?** Hanya judul dan teks notifikasi yang dikirim aplikasi; bisa dibatasi dengan filter/ban words.
